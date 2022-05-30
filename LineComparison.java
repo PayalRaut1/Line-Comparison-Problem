@@ -9,7 +9,6 @@ public class LineComparison
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the values for Line 1");
         System.out.println("Enter the value of x1");
-        //taking input from user for x1,x2,y1,y2 of Line1
         x1 = scan.nextDouble();
         System.out.println("Enter the value of x2");
         x2 = scan.nextDouble();
@@ -22,7 +21,6 @@ public class LineComparison
 
         System.out.println("Enter the values for Line 2");
         System.out.println("Enter the value of x1");
-        //taking input from user  for x1,x2,y1,y2 of Line2
         x1 = scan.nextDouble();
         System.out.println("Enter the value of x2");
         x2 = scan.nextDouble();
